@@ -36,7 +36,7 @@ criaCartao(
     criaCartao(
     'História',
     'Qual foi o estopim para a Segunda Guerra Mundial?',
-    'O estopim para o conflito deu-se com a invasão da Polônia realizada pelos alemães, em setembro de 1939. ');
+    'O estopim para o conflito deu-se com a invasão da Polônia realizada pelos alemães, em setembro de 1939.');
     
     criaCartao(
     'Matemática',
@@ -56,7 +56,7 @@ criaCartao(
     criaCartao(
     'Biologia',
     'O que são genes alelos?',
-    'Os genes alelos são aqueles que ocupam o mesmo lócus em cromossomos homólogos e estão envolvidos na determinação de um mesmo caráter. ');
+    'Os genes alelos são aqueles que ocupam o mesmo lócus em cromossomos homólogos e estão envolvidos na determinação de um mesmo caráter.');
     
     criaCartao(
     'Biologia',
@@ -91,7 +91,7 @@ criaCartao(
     criaCartao(
     'Química',
     'O que é copolimerização?',
-    'União de várias moléculas idênticas para formar uma nova molécula maior a partir de uma mistura de dois ou vários monómeros .');
+    'União de várias moléculas idênticas para formar uma nova molécula maior a partir de uma mistura de dois ou vários monómeros.');
     
     criaCartao(
     'História',
