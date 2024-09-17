@@ -2,11 +2,19 @@
     --caixa-cor-frente: #5dade2; 
     --caixa-cor-verso: #a2d9ce;
     --fundo: #d6eaf8;
-    --preto: black;
+    --cor-footer: #21618c;
     --branco: white;
     --cor-texto-destaque: #1b4f72; 
 }
 
 body{
     background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: var(--cor-footer);
+    color: var(--branco);
+    width: 100%;
 }
