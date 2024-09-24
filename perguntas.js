@@ -21,7 +21,7 @@ criaCartao(
     criaCartao(
     'História',
     'O que foi a suserania e a vassalagem?',
-    'As relações de suserania e vassalagem, comuns no feudalismo durante a Idade Média, foram compromissos de fidelidade entre nobres originadas a partir da doação de terras. Quando um nobre doava terras a outro, o que doou se torna suserano e o que recebeu, vassalo. Esse acordo implicava direitos e obrigações recíprocas.');
+    'Foram compromissos de fidelidade entre nobres originadas a partir da doação de terras. Quando um nobre doava terras a outro, o que doou se torna suserano e o que recebeu, vassalo. Esse acordo implicava direitos e obrigações recíprocas.');
     
     criaCartao(
     'História',
