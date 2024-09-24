@@ -65,7 +65,7 @@ criaCartao(
     
     criaCartao(
     'Física',
-    'O que diz a Primeira lei da Termodinâmica? ',
+    'O que diz a Primeira lei da Termodinâmica?',
     'A Primeira Lei da Termodinâmica se relaciona com o princípio da conservação da energia. Isso quer dizer que a energia em um sistema não pode ser destruída nem criada, somente transformada. A quantidade de calor, o trabalho e a variação de energia interna possuem como unidade de medida padrão o Joule (J).');
     
     criaCartao(
