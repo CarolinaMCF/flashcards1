@@ -95,5 +95,5 @@ criaCartao(
     
     criaCartao(
     'História',
-    'Como foi chamado o governo de Getúlio Vargas entre 1937 e 1945? ',
+    'Como foi chamado o governo de Getúlio Vargas entre 1937 e 1945?',
     'Estado Novo.')
