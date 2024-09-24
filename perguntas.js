@@ -61,7 +61,7 @@ criaCartao(
     criaCartao(
     'Biologia',
     'O que são cromossomos homólogos?',
-    'Cromossomos homólogos são pares de cromossomos que apresentam semelhanças estruturais (tamanho e forma), ocupam a mesma posição no cariótipo e carregam genes semelhantes, um de origem materna e outro de origem paterna, que carregam informações genéticas para as mesmas características.');
+    'Cromossomos homólogos são pares de cromossomos que apresentam semelhanças estruturais, ocupam a mesma posição no cariótipo e carregam genes semelhantes.');
     
     criaCartao(
     'Física',
