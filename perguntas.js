@@ -21,7 +21,7 @@ criaCartao(
     criaCartao(
     'História',
     'O que foi a suserania e a vassalagem?',
-    'Foram compromissos de fidelidade entre nobres originadas a partir da doação de terras. Quando um nobre doava terras a outro, o que doou se torna suserano e o que recebeu, vassalo. Esse acordo implicava direitos e obrigações recíprocas.');
+    'Foram compromissos de fidelidade entre nobres originadas a partir da doação de terras. Quando um nobre doava terras a outro, o que doou se torna suserano e o que recebeu, vassalo.');
     
     criaCartao(
     'História',
