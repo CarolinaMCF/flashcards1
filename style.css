@@ -54,6 +54,7 @@ footer{
 
 .cartao_conteudo_resposta{
     color: var(--caixa-cor-verso);
+    transform: rotateY('180deg');
 }
 
 .cartao.active .cartao_conteudo{
