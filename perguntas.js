@@ -92,8 +92,9 @@ criaCartao(
     'Química',
     'O que é copolimerização?',
     'União de várias moléculas idênticas para formar uma nova molécula maior a partir de uma mistura de dois ou vários monómeros.');
-    
+
     criaCartao(
     'História',
     'Como foi chamado o governo de Getúlio Vargas entre 1937 e 1945?',
-    'Estado Novo.')
+    'Estado Novo.');
+    
