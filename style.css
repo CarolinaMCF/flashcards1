@@ -35,7 +35,7 @@ body {
 }
 
 .cartao__conteudo h3 {
-    color: var(--cor-texto-destaque);
+    color: black;
     border: 1px solid var(--cor-texto-destaque);
     text-align: left;
     padding: 0.5rem;
@@ -54,7 +54,7 @@ body {
 }
 
 .cartao__conteudo__pergunta p {
-    color: var(--cor-texto-destaque);
+    color: black;
     font-weight: 500;
 }
 
