@@ -37,6 +37,8 @@ footer{
 .cartao_conteudo{
     background-color: var(--caixa-cor-frente);
     text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao_conteudo h3{
