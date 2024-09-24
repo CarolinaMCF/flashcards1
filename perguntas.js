@@ -91,7 +91,7 @@ criaCartao(
     criaCartao(
     'Química',
     'O que é copolimerização?',
-    'União de várias moléculas idênticas para formar uma nova molécula maior a partir de uma mistura de dois ou vários monómeros.');
+    'União de várias moléculas idênticas para formar uma nova molécula maior a partir de uma mistura de dois ou vários monômeros.');
 
     criaCartao(
     'História',
